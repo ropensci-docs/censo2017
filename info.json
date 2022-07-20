@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "5a26ad38773cfe7b6ca4ad0969ac575d2eaf2888",
+    "author": "Pachá <mvargas@dcc.uchile.cl>",
+    "time": "2022-06-20 04:13:27",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #14 from pachadotdev/main\n\nupdate start msg"
+  },
+  "repo": "https://github.com/ropensci/censo2017",
+  "pkg": "censo2017"
+}
