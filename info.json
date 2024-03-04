@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "200f860cee24c6b132f469dc0b8a6e40017461ca",
+    "author": "Pachá <mvargas@dcc.uchile.cl>",
+    "time": "2023-04-09 19:53:52",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #16 from FvD/T1\n\nCorrige typo en nombre"
+  },
+  "repo": "https://github.com/ropensci/censo2017",
+  "pkg": "censo2017"
+}
