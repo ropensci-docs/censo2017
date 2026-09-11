@@ -1,0 +1,9 @@
+pandoc: 3.8.3
+pkgdown: 2.2.1
+pkgdown_sha: ~
+articles:
+  censo2017: censo2017.html
+last_built: 2026-09-11T05:52Z
+urls:
+  reference: https://docs.ropensci.org/censo2017/reference
+  article: https://docs.ropensci.org/censo2017/articles

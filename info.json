@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b9f632579ca41bf365f6e978a72dc503a16c1d84",
+    "author": "Mauricio \"Pachá\" Vargas Sepúlveda <mavargas11@uc.cl>",
+    "time": "2024-09-18T11:54:19Z",
+    "files": 1,
+    "merge": true,
+    "message": "Merge pull request #17 from llrs/patch-1\n\nAdd Language field"
+  },
+  "repo": "https://github.com/ropensci/censo2017",
+  "pkg": "censo2017",
+  "time": "2026-09-11T05:53:06Z"
+}
